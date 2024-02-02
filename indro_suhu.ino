@@ -6,7 +6,7 @@
 
 const char* ssid = "wifi ani";
 const char* password = "wifi kencang ga bikin kembung";
-const char* serverUrl = "http://192.168.134.251/joki/indro/koneksi.php";
+const char* serverUrl = "http://192.168.134.251/indro/koneksi.php";
 
 #define DHT_PIN 13   // Tentukan pin yang terhubung ke sensor DHT22
 int lcdColumns = 16;
